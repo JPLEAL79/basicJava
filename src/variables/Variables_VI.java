@@ -8,6 +8,5 @@ public class Variables_VI {
         double b=8;
         double r= a/b;
         System.out.println(r);
-
     }
 }
